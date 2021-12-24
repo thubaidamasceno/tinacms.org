@@ -1,26 +1,21 @@
 {
   "seo": {
-    "title": "Build contextual editing into your site",
-    "description": "Open-source visual editing experience, backed by git."
+    "title": "Build courtyu",
+    "description": "Oper-source visual editing experience, backetrtyd by git.yurtyurtyurty"
   },
   "blocks": [
     {
-      "_template": "hero",
-      "headline": "reyerturtyujytjhjhytjr",
-      "subline": "Tiyrtyurtyurtyurtyu NextJtyurtyurtyurtyurty",
+      "headline": "Learn Tina",
+      "subline": "Learn Tina through Interactive & Fun Tutorials.",
       "actions": [
         {
           "variant": "button",
-          "label": "rtyurtyurty",
+          "label": "Get Started",
           "icon": "arrowRight",
-          "url": "/docs/setup-overview/"
-        },
-        {
-          "variant": "command",
-          "label": "npx create-tina-app@latest"
+          "url": "#"
         }
       ],
-      "videoSrc": "v1629294438/tina-io/Beta_Launch_Demo"
+      "_template": "flying"
     },
     {
       "_template": "features",
@@ -71,13 +66,13 @@
     },
     {
       "_template": "flying",
-      "headline": "New to Tina?",
-      "subline": "Learn the basics of the development workflow",
+      "headline": "New toyurtyurtyurty",
+      "subline": "Learn thtyurtyurtyurtyu",
       "actions": [
         {
           "variant": "orange",
-          "label": "Check out the docs",
-          "icon": "arrowRight",
+          "label": "Check out tyutyutyurtyrtyu",
+          "icon": "none",
           "url": "/docs/setup-overview/"
         }
       ],
@@ -99,6 +94,24 @@
           "subline": "Tina supports content stored in Git. Give the benefits of version-control to your whole team."
         }
       ]
+    },
+    {
+      "_template": "hero",
+      "headline": "reyerturtyujytjhjhytjr",
+      "subline": "Tiyrtyurtyurtyurtyu NextJtyurtyurtyurtyurty",
+      "actions": [
+        {
+          "variant": "button",
+          "label": "rtyurtyurty",
+          "icon": "arrowRight",
+          "url": "/docs/setup-overview/"
+        },
+        {
+          "variant": "command",
+          "label": "npx create-tina-app@latest"
+        }
+      ],
+      "videoSrc": "v1629294438/tina-io/Beta_Launch_Demo"
     },
     {
       "headline": "*Edit Content, Not Code*",
